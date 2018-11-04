@@ -1,6 +1,4 @@
-package grocerysystem.products;
-
-import java.util.List;
+package Modul09.grocerysystem.products;
 
 public class NonFoodProduct extends Product
 {

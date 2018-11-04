@@ -1,4 +1,4 @@
-package grocerysystem.products;
+package Modul11.grocerysystem.products;
 
 import java.util.UUID;
 

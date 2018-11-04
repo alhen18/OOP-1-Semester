@@ -1,8 +1,10 @@
-package grocerysystem;
+package Modul11.grocerysystem;
 
-import grocerysystem.products.FoodProduct;
-import grocerysystem.products.NonFoodProduct;
-import grocerysystem.products.Product;
+
+import Modul11.grocerysystem.products.FoodProduct;
+import Modul11.grocerysystem.products.NonFoodProduct;
+import Modul11.grocerysystem.products.Product;
+
 import java.util.Date;
 
 public class GroceryInventory {

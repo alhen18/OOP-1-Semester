@@ -1,8 +1,9 @@
-package grocerysystem;
+package Modul09.grocerysystem;
+
+import grocerysystem.products.Product;
 
 import java.text.DecimalFormat;
 import java.util.UUID;
-import grocerysystem.products.Product;
 
 public class ProductDatabase {
 
@@ -85,5 +86,9 @@ public class ProductDatabase {
             tempArray[i] = products[i];
         }
         products = tempArray;
+    }
+
+    public void addProduct(Modul09.grocerysystem.products.Product name) {
+
     }
 }

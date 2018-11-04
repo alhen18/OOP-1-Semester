@@ -1,6 +1,7 @@
-package grocerysystem;
+package Modul09.grocerysystem;
 
-import grocerysystem.products.Product;
+
+import Modul09.grocerysystem.products.Product;
 
 public class GroceryInventory
 {

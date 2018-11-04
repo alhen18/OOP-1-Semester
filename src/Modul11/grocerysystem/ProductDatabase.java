@@ -1,9 +1,11 @@
-package grocerysystem;
+package Modul11.grocerysystem;
+
+
+import Modul11.grocerysystem.products.Product;
 
 import java.text.DecimalFormat;
-import java.util.UUID;
-import grocerysystem.products.Product;
 import java.util.ArrayList;
+import java.util.UUID;
 
 public class ProductDatabase {
 

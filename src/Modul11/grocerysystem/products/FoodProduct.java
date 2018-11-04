@@ -1,7 +1,6 @@
-package grocerysystem.products;
+package Modul11.grocerysystem.products;
 
 import java.util.Date;
-import java.util.Objects;
 
 public class FoodProduct extends Product
 {
