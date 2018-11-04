@@ -1,4 +1,4 @@
-package Modul02.Liang;
+package Modul03.Liang;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class L2_7 {
         // Set a int that calculate the years.
         int year = minutes / 525600;
         // Set a int that take the rest of the minutes after calculating the years.
-        int day = (year % 365);
+        int day = year % 365;
 
         // Print out the result.
         System.out.println(minutes + " minutes is approximately " + year + " years and " + day + " days");
