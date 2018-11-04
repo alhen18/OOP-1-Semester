@@ -1,4 +1,4 @@
-package Modul2.Opgaver;
+package Modul02.Opgaver;
 
 public class A2 {
 

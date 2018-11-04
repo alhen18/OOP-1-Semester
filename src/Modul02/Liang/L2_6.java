@@ -1,4 +1,4 @@
-package Modul2.Liang;
+package Modul02.Liang;
 
 import java.util.Scanner;
 
