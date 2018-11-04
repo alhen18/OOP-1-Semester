@@ -1,13 +1,13 @@
-package Modul15.Grocery.Products;
+package Modul16.Grocery.Products;
 
-import Modul15.Grocery.Products.Interfaces.Expireable;
+import Modul16.Grocery.Products.Interfaces.Expireable;
 import java.util.UUID;
 
 /**
  *
  * @author Aleksander Henriksen
  */
-public abstract class Product implements Expireable {
+public abstract class Product implements Expireable, Comparable<Product> {
 
     private final UUID serial;
     private final String name;
@@ -34,5 +34,10 @@ public abstract class Product implements Expireable {
     @Override
     public boolean isExpired() {
         throw new UnsupportedOperationException("Product does not support this operation.");
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        return this.price != o.getPrice() ? this.price > o.getPrice() ? 1 : -1 : 0;
     }
 }

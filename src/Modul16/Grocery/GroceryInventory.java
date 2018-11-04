@@ -1,12 +1,11 @@
-package Modul15.Grocery;
+package Modul16.Grocery;
 
-import Modul15.Grocery.Products.ExpiredProductAddedException;
-import Modul15.Grocery.Products.FoodProduct;
-import Modul15.Grocery.Products.NonFoodProduct;
+import Modul16.Grocery.Products.ExpiredProductAddedException;
+import Modul16.Grocery.Products.FoodProduct;
+import Modul16.Grocery.Products.NonFoodProduct;
+import Modul16.Grocery.Products.Product;
 
 import java.util.Date;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 
 public class GroceryInventory {
@@ -16,19 +15,18 @@ public class GroceryInventory {
         ProductDatabase inventory = new ProductDatabase();
 
         try {
-            FoodProduct p1 = foodProductCreator("Milk", 6.95, -1000000000, 5);
+            FoodProduct p1 = foodProductCreator("Milk", 6.90, -1000000000, 5);
             inventory.addProduct(p1);
             FoodProduct p2 = foodProductCreator("Cream", 12.95, 800000000, 3);
             inventory.addProduct(p2);
             FoodProduct p3 = foodProductCreator("Cake", 18.00, 8000000000L, 20);
             inventory.addProduct(p3);
         } catch (ExpiredProductAddedException ex) {
-            Logger.getLogger(GroceryInventory.class.getName()).log(Level.SEVERE,
-                    null, ex);
+            System.out.println("Attempted to Add Expired product.");
         }
 
         NonFoodProduct p4 = new NonFoodProduct("Reol", 295.5,
-                new String[]{"Book", "Panting"});
+                new String[]{"Bøg", "Maling"});
         inventory.addProduct(p4);
 
         NonFoodProduct p5 = new NonFoodProduct("Stol", 29.5,
@@ -39,19 +37,26 @@ public class GroceryInventory {
                 new String[]{"Snapdragon something something", "Ram", "Screen"});
         inventory.addProduct(p6);
 
-        System.out.println("\n" + "Total price: " + inventory.getTotalPrice()
-                + "\n");
+        System.out.println("\n" + "Total price: " + inventory.getTotalPrice() + "\n");
         System.out.println(inventory.printInventory());
 
         //Polymorph loop
-        inventory.getProducts().forEach((p) -> {
-            System.out.println(p.toString());
-        });
+        System.out.println(inventory.toString());
 
         inventory.removeExpiredFoods();
 
-        System.out.println("\n" + "After removeing the expired items: ");
+        System.out.println("\n" + "After removing the expired items: ");
         System.out.println(inventory.printInventory());
+
+        System.out.println("\n\n" + "Here is the products sorted by names length: \n");
+        for (Product p : inventory.sortedByNameLength()) {
+            System.out.println(p);
+        }
+
+        System.out.println("\n\n" + "Here is the products sorted by price: \n");
+        for (Product p : inventory.sortedByPrice()) {
+            System.out.println(p);
+        }
     }
 
     private static FoodProduct foodProductCreator(String name, double price, long expOffsetMs, int temp)

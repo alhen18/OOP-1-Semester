@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1656988478">
       <usages-collector id="statistics.lifecycle.project">
@@ -22,38 +25,167 @@
     <session id="-1962963026">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="34" />
+          <entry key="class" value="2" />
+          <entry key="java" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="207" />
+          <entry key="java" value="1717" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="207" />
+          <entry key="JAVA" value="1717" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/ProductDatabase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="89" column="31" lean-forward="true" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/GroceryInventory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/NonFoodProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/FoodProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/ExpiredProductAddedException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/Interfaces/Expireable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Compare/ProductNameLengthComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -66,11 +198,20 @@
         <option value="$PROJECT_DIR$/src/Modul16/products/Product.java" />
         <option value="$PROJECT_DIR$/src/Modul16/products/FoodProduct.java" />
         <option value="$PROJECT_DIR$/src/Modul16/GroceryInventory.java" />
-        <option value="$PROJECT_DIR$/src/Modul15/Grocery/GroceryInventory.java" />
         <option value="$PROJECT_DIR$/src/Modul15/Grocery/ProductDatabase.java" />
         <option value="$PROJECT_DIR$/src/Modul15/Grocery/Products/ExpiredProductAddedException.java" />
         <option value="$PROJECT_DIR$/src/Modul15/Grocery/Products/FoodProduct.java" />
         <option value="$PROJECT_DIR$/src/Modul15/Grocery/Products/NonFoodProduct.java" />
+        <option value="$PROJECT_DIR$/src/Modul15/Grocery/GroceryInventory.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/ExpiredProductAddedException.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/Interfaces/Expireable.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Compare/Pro.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/NonFoodProduct.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/FoodProduct.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/Product.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/Compare/ProductNameLengthComparator.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/ProductDatabase.java" />
+        <option value="$PROJECT_DIR$/src/Modul16/Grocery/GroceryInventory.java" />
       </list>
     </option>
   </component>
@@ -81,17 +222,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,52 +247,56 @@
               <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul15" type="462c0819:PsiDirectoryNode" />
-              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul15" type="462c0819:PsiDirectoryNode" />
-              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
-              <item name="Products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul15" type="462c0819:PsiDirectoryNode" />
-              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
-              <item name="Products" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Modul16" type="462c0819:PsiDirectoryNode" />
+              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
+              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
+              <item name="Compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
+              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
+              <item name="Products" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
+              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
+              <item name="Products" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541009141782" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541320172111" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,13 +310,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroceryInventory (1)">
+  <component name="RunManager" selected="Application.GroceryInventory (2)">
     <configuration name="GroceryInventory (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul16.GroceryInventory" />
       <module name="SDU Assignemts" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Modul16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroceryInventory (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul16.Grocery.GroceryInventory" />
+      <module name="SDU Assignemts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul16.Grocery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +350,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All Features in: Modul16" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/Modul16" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SDU Assignemts" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: Modul16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.GroceryInventory" />
       <item itemvalue="Application.GroceryInventory (1)" />
+      <item itemvalue="Application.GroceryInventory (2)" />
+      <item itemvalue="Cucumber java.All Features in: Modul16" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroceryInventory (2)" />
+        <item itemvalue="Cucumber java.All Features in: Modul16" />
         <item itemvalue="Application.GroceryInventory (1)" />
         <item itemvalue="Application.GroceryInventory" />
       </list>
@@ -217,35 +394,53 @@
       <updated>1541007080249</updated>
       <workItem from="1541007083300" duration="42000" />
       <workItem from="1541007530939" duration="8000" />
-      <workItem from="1541007739597" duration="1227000" />
+      <workItem from="1541007739597" duration="2177000" />
+      <workItem from="1541080066488" duration="1199000" />
+      <workItem from="1541105083307" duration="4962000" />
+      <workItem from="1541318253669" duration="1833000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__Modul16 - 2018.11.01 at 22h 09m 47s.xml">
+      <configuration name="All Features in: Modul16" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1277000" />
+    <option name="totallyTimeSpent" value="10221000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.34871244" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38733906" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55042917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.34763947" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,40 +459,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Modul16/GroceryInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/GroceryInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/ProductDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/GroceryInventory.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modul16/ProductDatabase.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/ProductDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
@@ -318,13 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/products/interfaces/Expireable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/products/interfaces/Expireable.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/Products/ExpiredProductAddedException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -332,17 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/products/ExpiredProductAddedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/products/ExpiredProductAddedException.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/Products/FoodProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -358,21 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/products/FoodProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="51" column="12" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="51" selection-end-column="12" />
-          <folding>
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/products/FoodProduct.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/Products/NonFoodProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -384,31 +517,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/products/NonFoodProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul16/products/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/products/NonFoodProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modul16/products/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/Products/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Liang/Liang.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modul15/Grocery/GroceryInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/jce.jar!/javax/crypto/interfaces/DHKey.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/ext/jaccess.jar!/com/sun/java/accessibility/util/AWTEventMonitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1768">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/Interfaces/Expireable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/ExpiredProductAddedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/FoodProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/NonFoodProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Compare/ProductNameLengthComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/Products/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/ProductDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="89" column="31" lean-forward="true" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul16/Grocery/GroceryInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

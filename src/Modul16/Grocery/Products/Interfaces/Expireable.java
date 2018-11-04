@@ -1,4 +1,4 @@
-package Modul15.Grocery.Products.Interfaces;
+package Modul16.Grocery.Products.Interfaces;
 
 public interface Expireable {
 
