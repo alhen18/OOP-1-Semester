@@ -13,11 +13,11 @@ public class ProductDatabase {
     }
 
     public void addProduct(Product p) {
-        products.put(UUID.randomUUID(), p);
+        products.put(p.getSerial(), p);
     }
 
     public void removeProductByNumber(UUID serial) {
-        for (Map.Entry<UUID, Product> p : products.entrySet()) {
+        for (Map.Entry<UUID, Product> p : new HashMap<>(this.products).entrySet()) {
             if (p.getValue().equals(serial)) {
                 products.remove(p);
             }

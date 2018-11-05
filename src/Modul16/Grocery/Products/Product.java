@@ -14,6 +14,7 @@ public abstract class Product implements Expireable, Comparable<Product> {
     private final double price;
 
     public Product(String name, double price) {
+        this.serial = UUID.randomUUID();
         this.name = name;
         this.price = price;
     }
