@@ -13,7 +13,6 @@ public class ProductDatabase {
     }
 
     public void addProduct(Product p) {
-
         products.put(UUID.randomUUID(), p);
     }
 
@@ -37,7 +36,7 @@ public class ProductDatabase {
 
         for (Map.Entry<UUID, Product> p : this.products.entrySet()) {
             sb.append("Name: ").append(p.getValue()).append("\t")
-                    .append("Price: ").append(p.getValue()).append("\t")
+                    .append("Price: ").append(p.getValue().getPrice()).append("\t")
                     .append("Serial: ").append(p.getKey()).append("\n");
         }
         //Call toString on the StringBuilder object, to get the String representation.

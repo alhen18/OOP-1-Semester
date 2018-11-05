@@ -38,22 +38,18 @@ public class GroceryInventory {
         inventory.addProduct(p6);
 
         System.out.println("\n" + "Total price: " + inventory.getTotalPrice() + "\n");
-        System.out.println(inventory.printInventory());
-
-        //Polymorph loop
-        System.out.println(inventory.toString());
 
         inventory.removeExpiredFoods();
 
         System.out.println("\n" + "After removing the expired items: ");
         System.out.println(inventory.printInventory());
 
-        System.out.println("\n\n" + "Here is the products sorted by names length: \n");
+        System.out.println("\n" + "Here is the products sorted by names length:");
         for (Product p : inventory.sortedByNameLength()) {
             System.out.println(p);
         }
 
-        System.out.println("\n\n" + "Here is the products sorted by price: \n");
+        System.out.println("\n" + "Here is the products sorted by price:");
         for (Product p : inventory.sortedByPrice()) {
             System.out.println(p);
         }
