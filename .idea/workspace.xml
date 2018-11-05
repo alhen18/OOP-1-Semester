@@ -29,58 +29,105 @@
     <session id="-1962963026">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cdg" value="1" />
           <entry key="class" value="2" />
+          <entry key="css" value="1" />
+          <entry key="fxml" value="1" />
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="166" />
+          <entry key="java" value="173" />
           <entry key="uml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
+          <entry key="CSS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="166" />
+          <entry key="JAVA" value="173" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="UML" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2944" />
+          <entry key="fxml" value="195" />
+          <entry key="java" value="3576" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2944" />
+          <entry key="JAVA" value="3576" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="194" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/fxml_example.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExampleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -91,15 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Modul2/Liang/L2_7.java" />
-        <option value="$PROJECT_DIR$/src/Modul2/Liang/L2_23.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Liang/L2_7.java" />
-        <option value="$PROJECT_DIR$/src/Modul02/Liang/L2_7.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Opgaver/B1.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Opgaver/B4.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Opgaver/B5.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Liang/L3_1.java" />
-        <option value="$PROJECT_DIR$/src/Modul03/Liang/L5_3.java" />
         <option value="$PROJECT_DIR$/src/Modul03/Liang/L5_5.java" />
         <option value="$PROJECT_DIR$/src/Modul04/Liang/L8_2.java" />
         <option value="$PROJECT_DIR$/src/Modul04/Opgaver/C1.java" />
@@ -142,6 +180,15 @@
         <option value="$PROJECT_DIR$/src/Modul16/Grocery/GroceryInventory.java" />
         <option value="$PROJECT_DIR$/src/Modul16/Grocery/Products/Product.java" />
         <option value="$PROJECT_DIR$/src/Modul16/Grocery/ProductDatabase.java" />
+        <option value="$PROJECT_DIR$/src/Modul17/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/Modul17/Login.java" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExample.fxml" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/FXMLDocument.fxml" />
+        <option value="$PROJECT_DIR$/FXMLExample/src/fxmlexample/FXMLExample.java" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExample.java" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/Login.css" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/fxml_example.fxml" />
+        <option value="$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExampleController.java" />
       </list>
     </option>
   </component>
@@ -151,7 +198,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -173,25 +220,6 @@
               <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul16" type="462c0819:PsiDirectoryNode" />
-              <item name="Grocery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDU-Assignemts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDU-Assignemts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Modul17" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -203,11 +231,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541423849524" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541442152703" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksander Henriksen\Desktop\SDU - 1st Semester\OOP code\SDU-Assignemts\src\Modul17\Opgave4" />
+      <recent name="C:\Users\Aleksander Henriksen\Desktop\SDU - 1st Semester\OOP code\SDU-Assignemts\src\Modul17\Opgave2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,9 +256,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroceryInventory">
-    <configuration name="D7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul05.Opgaver.D7" />
+  <component name="RunManager" selected="Application.FXMLExample">
+    <configuration name="D8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul05.Opgaver.D8" />
       <module name="SDU Assignemts" />
       <extension name="coverage">
         <pattern>
@@ -235,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul05.Opgaver.D8" />
+    <configuration name="FXMLExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul17.Opgave4.FXMLExample" />
       <module name="SDU Assignemts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul05.Opgaver.*" />
+          <option name="PATTERN" value="Modul17.Opgave4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L6_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul05.Liang.L6_28" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul17.Opgave1.HelloWorld" />
       <module name="SDU Assignemts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul05.Liang.*" />
+          <option name="PATTERN" value="Modul17.Opgave1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L6_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul05.Liang.L6_3" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul17.Opgave2.Login" />
       <module name="SDU Assignemts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul05.Liang.*" />
+          <option name="PATTERN" value="Modul17.Opgave1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.L6_3" />
-      <item itemvalue="Application.L6_28" />
-      <item itemvalue="Application.D7" />
       <item itemvalue="Application.D8" />
       <item itemvalue="Application.GroceryInventory" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Login" />
+      <item itemvalue="Application.FXMLExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FXMLExample" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.GroceryInventory" />
         <item itemvalue="Application.D8" />
-        <item itemvalue="Application.D7" />
-        <item itemvalue="Application.L6_28" />
-        <item itemvalue="Application.L6_3" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +360,9 @@
       <workItem from="1541409528709" duration="573000" />
       <workItem from="1541416247301" duration="1970000" />
       <workItem from="1541418329784" duration="1865000" />
-      <workItem from="1541421573263" duration="2151000" />
+      <workItem from="1541421573263" duration="3215000" />
+      <workItem from="1541437597358" duration="4616000" />
+      <workItem from="1541442284212" duration="33000" />
     </task>
     <servers />
   </component>
@@ -335,7 +372,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26105000" />
+    <option name="totallyTimeSpent" value="31818000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,9 +384,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,7 +397,7 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.6534335" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.1416309" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,43 +425,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Modul11/grocerysystem/products/NonFoodProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul11/grocerysystem/products/FoodProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul11/grocerysystem/ProductDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul11/grocerysystem/GroceryInventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SDU Assignemts.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Modul13/TextIO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -694,10 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,10 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,10 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,17 +723,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul17/DeleteMe.java" />
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave1/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave2/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FXMLExample/src/fxmlexample/FXMLExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/Login.css" />
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExampleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul17/DeleteMe.java">
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/fxml_example.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="544">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul17/Opgave4/FXMLExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
